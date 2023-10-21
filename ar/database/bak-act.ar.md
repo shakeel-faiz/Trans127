@@ -86,5 +86,5 @@
 **Settings**
 - [BAK - Holo Launcher Backup](/settings/bak-holo/)
 
-## References
+## مراجع
 * [Swift Act!](https://en.wikipedia.org/wiki/Act!_LLC)

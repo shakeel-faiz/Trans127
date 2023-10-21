@@ -15,7 +15,7 @@
    },
    "draft":"false",
    "toc":true,
-   "title":"تنسيق ملف PRT - الجزء البارامتري Creo",
+   "title":"PRT File Format - Creo Parametric Part",
    "description":"تعرف على تنسيق ملف PRT Creo Parametric Part وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات PRT وفتحها.",
    "linktitle":"PRT",
    "menu":{

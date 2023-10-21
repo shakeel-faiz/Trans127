@@ -13,7 +13,7 @@
   },
   "draft": "false",
   "toc": true,
-  "title": "تنسيق ملف STY - نمط لوحة المفاتيح Yamaha أو Korg",
+  "title": "STY File Format - Yamaha or Korg Keyboard Style",
   "description": "تعرف على تنسيق STY وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات STY وفتحها.",
   "linktitle": "STY",
   "menu": {

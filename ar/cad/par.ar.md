@@ -14,7 +14,7 @@
    },
    "draft":"false",
    "toc":true,
-   "title":"تنسيق ملف PAR - ملف جزء الحافة الصلبة",
+   "title":"PAR File Format - Solid Edge Part File",
    "description":"تعرف على تنسيق PAR وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات PAR وفتحها.",
    "linktitle":"PAR",
    "menu":{

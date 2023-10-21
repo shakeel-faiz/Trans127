@@ -15,7 +15,7 @@
    },
    "draft":"false",
    "toc":true,
-   "title":"تنسيق ملف MTL - ملف مكتبة قالب مادة OBJ",
+   "title":"MTL File Format - OBJ Material Template Library File",
    "description":"تعرف على تنسيق ملف مكتبة قوالب المواد MTL OBJ وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات MTL وفتحها.",
    "linktitle":"MTL",
    "menu":{

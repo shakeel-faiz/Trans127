@@ -15,7 +15,7 @@
    },
    "draft":"false",
    "toc":true,
-   "title":"تنسيق ملف CHR - ملف أحرف 3ds Max",
+   "title":"CHR File Format - 3ds Max Characters File",
    "description":"تعرف على تنسيق ملف CHR 3ds Max Characters وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات CHR وفتحها.",
    "linktitle":"CHR 3ds",
    "menu":{

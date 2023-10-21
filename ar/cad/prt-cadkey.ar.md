@@ -15,7 +15,7 @@
    },
    "draft":"false",
    "toc":true,
-   "title":"تنسيق ملف PRT - ملف جزء CADKEY",
+   "title":"PRT File Format - CADKEY Part File",
    "description":"تعرف على تنسيق ملف جزء PRT CADKEY وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات PRT وفتحها.",
    "linktitle":"PRT CADKEY",
    "menu":{

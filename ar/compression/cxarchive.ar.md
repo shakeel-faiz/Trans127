@@ -15,7 +15,7 @@
   },
   "draft": "false",
   "toc": true,
-  "title": "تنسيق ملف CXARCHIVE - أرشيف زجاجة CrossOver",
+  "title": "CXARCHIVE File Format - CrossOver Bottle Archive",
   "description": "تعرف على تنسيق CXARCHIVE CrossOver Bottle Archive وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات CXARCHIVE وفتحها.",
   "linktitle": "CXARCHIVE",
   "menu": {

@@ -13,7 +13,7 @@
    },
    "draft":"false",
    "toc":true,
-   "title":"تنسيق ملف BIN - ملف MacBinary المشفر",
+   "title":"BIN File Format - MacBinary Encoded File",
    "description":"تعرف على تنسيق BIN وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات BIN وفتحها.",
    "linktitle":"BIN",
    "menu":{

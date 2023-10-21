@@ -13,7 +13,7 @@
   },
   "draft": "false",
   "toc": true,
-  "title": "تنسيق ملف C4D - ملف نموذج Cinema 4D",
+  "title": "C4D File Format - Cinema 4D Model File",
   "description": "تعرف على تنسيق C4D وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات C4D وفتحها.",
   "linktitle": "C4D",
   "menu": {

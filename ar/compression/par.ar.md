@@ -14,7 +14,7 @@
    },
    "draft":"false",
    "toc":true,
-   "title":"تنسيق ملف PAR - ملف فهرس Parchive",
+   "title":"PAR File Format - Parchive Index File",
    "description":"تعرف على تنسيق PAR وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات PAR وفتحها.",
    "linktitle":"PAR",
    "menu":{

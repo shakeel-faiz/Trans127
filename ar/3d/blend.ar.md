@@ -5,7 +5,7 @@
   },
   "draft": "false",
   "toc": true,
-  "title": "تنسيق ملف BLEND - ملف Blender 3D",
+  "title": "BLEND File Format - Blender 3D File",
   "description": "تعرف على تنسيق BLEND وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات BLEND وفتحها.",
   "linktitle": "BLEND",
   "menu": {

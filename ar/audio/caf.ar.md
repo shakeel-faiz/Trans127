@@ -15,7 +15,7 @@
    },
    "draft":"false",
    "toc":true,
-   "title":"تنسيق ملف CAF - ملف صوتي أساسي",
+   "title":"CAF File Format - Core Audio File",
    "description":"تعرف على تنسيق CAF وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات CAF وفتحها.",
    "linktitle":"CAF",
    "menu":{

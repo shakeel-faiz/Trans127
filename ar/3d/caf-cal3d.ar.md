@@ -15,7 +15,7 @@
    },
    "draft":"false",
    "toc":true,
-   "title":"تنسيق ملف CAF - ملف الرسوم المتحركة الثنائي Cal3D",
+   "title":"CAF File Format - Cal3D Binary Animation File",
    "description":"تعرف على تنسيق ملف الرسوم المتحركة الثنائي CAF Cal3D وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات CAF وفتحها.",
    "linktitle":"CAF Cal3D",
    "menu":{

@@ -15,7 +15,7 @@
    },
    "draft":"false",
    "toc":true,
-   "title":"تنسيق ملف CDR - بيانات الصوت المضغوطة الخام",
+   "title":"CDR File Format - Raw CD Audio Data",
    "description":"تعرف على تنسيق ملف CDR Raw CD Audio Data وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات CDR وفتحها.",
    "linktitle":"CDR",
    "menu":{

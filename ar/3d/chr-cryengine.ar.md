@@ -15,7 +15,7 @@
    },
    "draft":"false",
    "toc":true,
-   "title":"تنسيق ملف CHR - ملف حرف CryENGINE",
+   "title":"CHR File Format - CryENGINE Character File",
    "description":"تعرف على تنسيق ملف CHR CryENGINE Character وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات CHR وفتحها.",
    "linktitle":"CHR CryENGINE",
    "menu":{

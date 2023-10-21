@@ -15,7 +15,7 @@
   },
   "draft": "false",
   "toc": true,
-  "title": "تنسيق ملف CBA - أرشيف الكتاب الهزلي",
+  "title": "CBA File Format - Comic Book Archive",
   "description": "تعرف على تنسيق CBA وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات CBA وفتحها.",
   "linktitle": "CBA",
   "menu": {

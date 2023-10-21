@@ -14,7 +14,7 @@
   },
   "draft": "false",
   "toc": true,
-  "title": "تنسيق ملف DXB - رسم ثنائي للتبادل",
+  "title": "DXB File Format - Drawing Exchange Binary",
   "description": "تعرف على تنسيق DXB وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات DXB وفتحها.",
   "linktitle": "DXB",
   "menu": {

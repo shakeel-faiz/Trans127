@@ -15,7 +15,7 @@
   },
   "draft": "false",
   "toc": true,
-  "title": "تنسيق ملف PC3 - ملف تكوين AutoCAD Plotter",
+  "title": "PC3 File Format - AutoCAD Plotter Configuration File",
   "description": "تعرف على تنسيق PC3 وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات PC3 وفتحها.",
   "linktitle": "PC3",
   "menu": {

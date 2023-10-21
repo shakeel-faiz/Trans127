@@ -16,7 +16,7 @@
   },
   "draft": "false",
   "toc": true,
-  "title": "تنسيق ملف AIF - تنسيق ملف تبادل الصوت",
+  "title": "AIF File Format - Audio Interchange File Format",
   "description": "تعرف على تنسيق AIF وواجهات برمجة التطبيقات التي يمكنها إنشاء ملفات AIF وفتحها.",
   "linktitle": "AIF",
   "menu": {

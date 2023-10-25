@@ -78,6 +78,5 @@
 
 - [JET - The Jackbox Party Pack Settings](/settings/jet/)
 
-
 ## Препратки
 * [Access Database Engine](https://en.wikipedia.org/wiki/Access_Database_Engine)
